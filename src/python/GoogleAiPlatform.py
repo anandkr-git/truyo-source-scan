@@ -1,4 +1,4 @@
-from google.cloud import aiplatform
+from googleaiplatform.cloud import 
 from google.protobuf import json_format
 from google.protobuf.struct_pb2 import Value
 
